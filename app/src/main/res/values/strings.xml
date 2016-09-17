@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ShopLaptop</string>
+    <string name="brand_prompt">Choose a brand</string>
+    <string-array name="brand_array">
+        <item>HP</item>
+        <item>Lenovo</item>
+    </string-array>
+
+</resources>
